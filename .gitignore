@@ -1,0 +1,62 @@
+# Ignore as pastas bin e obj
+bin/
+obj/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore pacotes NuGet
+*.nupkg
+**/packages/
+# Pasta para pacotes globais, como ferramentas dotnet
+.nupkg/
+
+# Ignore configurações de usuário
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore a pasta de dependências de build
+.vscode/
+.vs/
+.idea/
+
+# Ignore arquivos de cache do Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Ignore arquivos de cache do Rider
+.idea/
+.idea_modules/
+
+# Ignore os diretórios de publicação
+publish/
+wwwroot/
+
+# Ignore arquivos temporários
+*.tmp
+*.temp
+
+# Ignore arquivos gerados automaticamente
+Generated\ Files/
+Generated\_Code/
+ServiceFabricLocalStore/
+**/*-lock.json
+
+# Ignore arquivos de compilação
+*.csproj.user
+*.csproj.filters
+*.csproj.vspscc
+
+# Ignore arquivos de configuração de banco de dados
+appsettings.json
+appsettings.*.json
+
+# Ignore arquivos de configurações específicas de ambiente
+.env
+.env.*

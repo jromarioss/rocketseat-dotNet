@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|c:\\users\\desktop\\documents\\cursos\\rocketcsharp\\modulos\\modulo02\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|c:\\users\\desktop\\documents\\cursos\\rocketcsharp\\modulos\\modulo02\\myfirstapi\\controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|solutionrelative:controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|c:\\users\\desktop\\documents\\cursos\\rocketcsharp\\modulos\\modulo02\\myfirstapi\\communication\\requests\\requestchangepasswordjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|solutionrelative:communication\\requests\\requestchangepasswordjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|c:\\users\\desktop\\documents\\cursos\\rocketcsharp\\modulos\\modulo02\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC30573-6FCB-4416-8F4A-A1CCC4884AC1}|MyFirstApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RequestChangePasswordJson.cs",
-              "DocumentMoniker": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\Communication\\Requests\\RequestChangePasswordJson.cs",
-              "RelativeDocumentMoniker": "Communication\\Requests\\RequestChangePasswordJson.cs",
-              "ToolTip": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\Communication\\Requests\\RequestChangePasswordJson.cs",
-              "RelativeToolTip": "Communication\\Requests\\RequestChangePasswordJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "DocumentIndex": 0,
+              "Title": "MyFirstApiBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\Controllers\\MyFirstApiBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyFirstApiBaseController.cs",
+              "ToolTip": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\Controllers\\MyFirstApiBaseController.cs",
+              "RelativeToolTip": "Controllers\\MyFirstApiBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:28:42.175Z",
+              "WhenOpened": "2024-08-29T10:39:57.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\DESKTOP\\Documents\\cursos\\rocketcsharp\\modulos\\modulo02\\MyFirstApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T22:13:08.967Z",
               "EditorCaption": ""
